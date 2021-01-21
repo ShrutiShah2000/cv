@@ -1,0 +1,132 @@
+body{
+  text-align: center;
+  margin:0;
+  font-family: 'Noto Sans', sans-serif;
+  color: #40514E
+}
+
+h2
+{
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.75rem;
+  font-weight: normal;
+}
+
+h3
+{
+  font-family: 'Raleway', sans-serif;
+  color: #52a119;
+}
+
+h1
+{
+  font-family: 'Sofia', cursive;
+  font-size: 3.125rem;
+}
+
+a
+{
+  color: #1996a1;
+}
+
+hr{
+  border-style: dotted none none none;
+  width: 10%;
+  border-width: 10px;
+  color: #a0ee90;
+}
+
+.intro
+{
+  width: 30%;
+  margin:auto;
+}
+
+.sub-heading
+{
+  font-size: 1.5rem;
+  color: darkgreen;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.my-skills{
+  margin-bottom: 0;
+  margin-top: 70px;
+}
+
+.get-in-touch
+{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.top-container
+{
+  background-color: lightblue;
+  padding-top: 20px;
+}
+
+.middle-container
+{
+
+}
+
+.bottom-container
+{
+
+}
+
+.microphone-img
+{
+  /*width: 25%; */
+  float: right;
+  margin-left: 30px;
+}
+
+.web-programming-img
+{
+  /*width: 25%;*/
+  float: left;
+  margin-right: 30px;
+
+}
+
+.profile-img
+{
+  margin-top: 5rem;
+}
+
+.mountain-img
+{
+  position: relative;
+  top: 5px;
+}
+
+.heading
+{
+  color: darkgreen;
+}
+
+.pro
+{
+  text-decoration: underline;
+}
+
+.top-cloud
+{
+  position: relative;
+  left: 200px;
+}
+
+.bottom-cloud
+{
+  display: block;
+  position: relative;
+  left: 300px;
+}
